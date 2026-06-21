@@ -1,4 +1,4 @@
-# 🎬 Netflix Analysis — Improved
+# 🎬 Netflix Analysis 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
